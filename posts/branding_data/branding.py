@@ -1,7 +1,6 @@
 branding_data = {
-    "brand_title": "Short Money Matters",
-    "brand_description": "Short Money Matters is your go-to source for short easy-to-read articles on financial "
-                         "subjects that are designed to educate readers in a easy-to-digest format.",
+    "brand_title": "SNK Smart Shoppers",
+    "brand_description": "SNK's Smart Shoppers is committed to bringing you fantastic daily deals and product recommendations! ",
     "brand_disclaimer_1": "We strive to provide up-to-date information, but make no warranties regarding the accuracy "
                           "of our information. Ultimately, you are responsible for your financial decisions. We are "
                           "not a financial institution and do not make any credit decisions or provide credit cards "
